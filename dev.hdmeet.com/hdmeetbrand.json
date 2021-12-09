@@ -1,6 +1,6 @@
 {
    "inviteDomain":"dev.hdmeet.com",
-   "backgroundColor":"#ffffff",
+   "backgroundColor":"#fff",
    "logoClickUrl":"https://telware.com",
    "logoImageUrl":"https://fileserv.telware.net/hdmeet/images/watermark.png",
    "virtualBackgrounds":[
@@ -13,11 +13,11 @@
    ],
    "customTheme":{
       "palette":{
-         "ui01":"orange !important",
+         "ui01":"#18508D !important",
          "ui02":"maroon",
          "surface02":"darkgreen",
          "ui03":"violet",
-         "ui04":"magenta",
+         "ui04":"#38A6DE",
          "ui05":"blueviolet",
          "field02Hover":"red",
          "action01":"green",
