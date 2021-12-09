@@ -13,10 +13,10 @@
    ],
    "customTheme":{
       "palette":{
-         "uiBackground":"#38A6DE",
-         "ui01":"#38A6DE !important",
+         "uiBackground":"#040404",
+         "ui01":"#474747 !important",
          "ui02":"#292929",
-         "ui03":"#3D3D3D",
+         "ui03":"#474747",
          "ui04":"#525252",
          "ui05":"#666",
          "action01":"#0056E0",
