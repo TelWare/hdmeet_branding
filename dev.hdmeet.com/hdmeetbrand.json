@@ -1,6 +1,6 @@
 {
    "inviteDomain":"dev.hdmeet.com",
-   "backgroundColor":"#fff",
+   "backgroundColor":"#474747",
    "logoClickUrl":"https://telware.com",
    "logoImageUrl":"https://fileserv.telware.net/hdmeet/images/watermark.png",
    "virtualBackgrounds":[
@@ -69,7 +69,7 @@
          "actionDangerFocus":"#EAA7AD",
          "actionDangerDisabled":"#7A141F",
          "bottomSheet":"#111111",
-         "text01":"#FFF",
+         "text01":"#38A6DE",
          "text02":"#C2C2C2",
          "text03":"#858585",
          "text04":"#AAAAAA",
@@ -82,7 +82,7 @@
          "field01Hover":"#292929",
          "field01Focus":"#0056E0",
          "field01Disabled":"#525252",
-         "field02":"#FFF",
+         "field02":"#38A6DE",
          "dividerColor":"#AAAAAA",
          "field02Hover":"#CCDDF9",
          "field02Focus":"#0056E0",
