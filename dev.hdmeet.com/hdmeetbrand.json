@@ -15,11 +15,11 @@
       "palette":{
          "uiBackground":"#e7e7e7",
          "ui01":"#474747 !important",
-         "ui02":"#38A6DE",
+         "ui02":"#18508D",
          "ui03":"#474747",
          "ui04":"#474747",
          "ui05":"#666",
-         "action01":"#0056E0",
+         "action01":"#38A6DE",
          "screen01Header":"#17A0DB",
          "action01Hover":"#246FE5",
          "action01Active":"#0045B3",
