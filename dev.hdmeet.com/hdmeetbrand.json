@@ -85,7 +85,7 @@
       },
       "typography":{
          "font":{
-            "font-family":"Roboto"
+            "font-family":"Roboto",
             "weightRegular":"400",
             "weightSemiBold":"600"
          },
