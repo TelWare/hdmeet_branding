@@ -14,8 +14,8 @@
    "customTheme":{
       "palette":{
          "uiBackground":"#e7e7e7",
-         "ui01":"#757575 !important",
-         "ui02":"#474747",
+         "ui01":"#474747 !important",
+         "ui02":"#757575",
          "ui03":"#36383c",
          "ui04":"#18508D",
          "ui05":"#666",
