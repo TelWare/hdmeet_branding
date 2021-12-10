@@ -13,15 +13,15 @@
    ],
    "customTheme":{
       "palette":{
-         "uiBackground":"#e7e7e7",
+         "uiBackground":"#757575",
          "ui01":"#474747 !important",
          "ui02":"#36383c",
          "ui03":"#757575",
-         "ui04":"#18508D",
+         "ui04":"#525252",
          "ui05":"#666",
          "action01":"#38A6DE",
          "screen01Header":"#17A0DB",
-         "action01Hover":"#246FE5",
+         "action01Hover":"#18508D",
          "action01Active":"#18508D",
          "action01Focus":"#99BBF3",
          "action01Disabled":"#00225A",
